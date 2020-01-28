@@ -1,3 +1,4 @@
+Git pull origin master
 ## Zero Day
 
 It is usually the first day a code is launched to get reviewed and to find exploits
